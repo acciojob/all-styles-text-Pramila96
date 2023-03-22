@@ -1,10 +1,10 @@
 
 /* Your CSS Code here. */
-.my{
+div{
 	width:200px;
 	background:purple;
 	border-left:5px solid green;
-	padding:10px;
+	padding: 10px;
 	font-size: 20px;
 	color:white;
 }
